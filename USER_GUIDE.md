@@ -33,6 +33,26 @@ Version 2.3.2 | Last Updated: February 2026
 
 ---
 
+## Installation
+
+### Step 1: Install Python
+Download Python 3.8 or higher from [python.org](https://www.python.org/downloads/)
+**⚠️ Important:** Check "Add Python to PATH" during installation.
+
+### Step 2: Install Dependencies
+Open your terminal and run:
+```bash
+pip install -r requirements.txt
+playwright install chromium
+```
+
+### Step 3: Navigate to Folder
+```bash
+cd team-scraper
+```
+
+---
+
 ## Choosing Your Interface
 
 ### Option 1: GUI (Recommended)

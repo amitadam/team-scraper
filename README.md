@@ -44,7 +44,7 @@
 
 ### 1. Install Dependencies
 ```bash
-pip install scrapy scrapy-playwright playwright-stealth openpyxl
+pip install -r requirements.txt
 playwright install chromium
 ```
 
